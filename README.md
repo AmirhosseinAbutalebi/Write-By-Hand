@@ -6,4 +6,6 @@ In this program, we start writing or drawing with our hands on the screen, the o
 in this program we use at mediapipe and cv2 
 
 # Video from program
-https://user-images.githubusercontent.com/52068307/168895982-9ad888a9-7945-4f6c-8b71-4ab120fa095a.mp4
+https://github.com/AmirhosseinAbutalebi/Write-By-Hand/assets/52068307/7b2802ae-9059-4075-b169-f198e80cab70
+
+
